@@ -8,7 +8,7 @@ I'm setting up this lab to get more exposure on AD. Not the best looking structu
 
 * Familiarity with the AD UI and the different tools & services alongside it 
 * Understanding of forests, domains, OU and objects
-* Enhanced knowledge of how network and DNS are applied in practice at higher OSI stack layers
+* Research done on of how network and DNS works in a corporate environment
 * Powershell scripting to bulk add users
 
 ### Software Used
