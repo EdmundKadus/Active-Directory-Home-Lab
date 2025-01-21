@@ -121,7 +121,7 @@ foreach ($n in $USERS_NAMELIST){
     $username = "$($first.Substring(0,1))$($last)".ToLower()
     Write-Host "Creating user: $($username)" -BackgroundColor Black -ForegroundColor Red
 ```
-Pairing our variables with the schema, there is always options such as PasswordNeverExpires and plenty of other settings available. The path sets where the users will be added to.
+Pairing our variables with the schema, there is are also options such as PasswordNeverExpires and plenty of other settings available. The path sets where the users will be added to.
 ```
     # Add the -Path parameter to specify the target OU
     New-AdUser -AccountPassword $password `
