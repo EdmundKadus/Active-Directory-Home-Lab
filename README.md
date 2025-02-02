@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I'm setting up this lab to get more exposure on AD. Not the best looking structure but I do plan on improving it and adding more sub-domain and replications.
+A lab to get more exposure on AD. Not the best looking structure but I do plan on improving it and adding more sub-domain and replications.
 
 ### Key Takeaways
 
