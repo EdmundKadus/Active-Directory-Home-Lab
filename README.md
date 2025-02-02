@@ -58,7 +58,7 @@ We proceed with setting up the Active Directory Domain Services (AD DS). During 
 
 ![Screenshot 2025-01-19 235516](https://github.com/user-attachments/assets/b81e32d2-d21b-4afd-9e9b-a7343c64e89b)
 
-Here we have the administrator account and using a root account is kinda question security-wise so we will delegate it to Christian Sazabi in the IT department.
+Here we have the administrator account and using a root account is kinda questionable security-wise so we will delegate it to Christian Sazabi in the IT department.
 
 ![Screenshot 2025-01-20 005201](https://github.com/user-attachments/assets/099dfd28-bd5d-4d53-8add-e2136fc1fb78)
 
